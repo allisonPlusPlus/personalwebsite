@@ -44,7 +44,7 @@ body {
 }
 
 .featurette-image {
-  height: 450px;
+  height: auto;
   width: 450px;
 }
 
