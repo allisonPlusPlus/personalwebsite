@@ -43,6 +43,12 @@ body {
     overflow: hidden;
 }
 
+.featurette-image {
+  height: 500px;
+  width: 500px;
+}
+
+
 .featurette-image.pull-left {
     margin-right: 40px;
 }
