@@ -67,6 +67,10 @@ body {
   width: 80%;
 }
 
+.social a {
+  color: #777;
+
+}
 footer {
     margin: 50px 0;
 }
