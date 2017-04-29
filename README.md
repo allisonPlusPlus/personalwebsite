@@ -1,5 +1,4 @@
 # personalwebsite
-Galvanize Pre-Course HTML/CSS Assignment
 
 
 Hello and thank you for viewing my personal website!
